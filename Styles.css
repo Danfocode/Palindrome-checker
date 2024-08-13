@@ -1,0 +1,35 @@
+body {
+    font-family: "Lato", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    background-color: #1b1b32;
+    
+  }
+.check-btn{
+    font-family: "Lato", Helvetica, Arial, sans-serif;
+    background-color: #feac32;
+    color: azure;
+    
+}
+h1{
+    color: azure;
+    text-align: center;
+}
+.content-box{
+    background-color: azure;
+    margin: 20px auto;
+    text-align: center;
+    width: max-content;
+}
+.content-box{
+    background-color: azure;
+    margin: 20px auto;
+    text-align: center;
+    width: max-content;
+}
+.definition{
+
+        background-color: beige;
+        margin: 20px auto;
+        text-align: center;
+        width: max-content;
+}
